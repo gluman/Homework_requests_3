@@ -47,4 +47,4 @@ class Stackoverflow:
 
 if __name__ == '__main__':
     questions = Stackoverflow()
-    questions.get_questions_limit(3)
+    questions.get_questions_limit(2)
